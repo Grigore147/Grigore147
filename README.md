@@ -24,4 +24,4 @@
   
 ◈ **Credly:** https://www.credly.com/users/grigore-dutcovici/badges  
 ◈ **GitHub:** https://github.com/Grigore147  
-◈ **LinkedIn:** www.linkedin.com/in/grigore-dutcovici  
+◈ **LinkedIn:** https://www.linkedin.com/in/grigore-dutcovici  
