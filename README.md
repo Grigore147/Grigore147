@@ -7,7 +7,7 @@
 🚀 Driven by passion for continuous learning, I excel in Solutions Architecture, Web Development and DevSecOps / Platform / Cloud Engineering. My mission is in building great products, providing technological excellence focused the best practices and passion to deliver innovative, high-quality products.
 
 ## Core skills:
-◈ Architecture / System Design: C4, Structurizr, PlantUML, UML, Lucidchart, Draw.io, OpenAPI (Swagger), AsyncAPI, CloudEvents
+◈ Architecture / System Design: C4, Structurizr, PlantUML, UML, Lucidchart, Draw.io, OpenAPI (Swagger), AsyncAPI, CloudEvents 
 ◈ Programming Languages: PHP (Laravel), JavaScript / TypeScript (Express, Nest, React), occasionally Python, learning Java
 ◈ Databases: MySQL / MariaDB, PostgreSQL, MongoDB, Redis, Memcached, DynamoDB, ElasticSearch, S3
 ◈ Data Streaming / Queues: RabbitMQ, Kafka, Redis Pub/Sub, AWS Kinesis / SQS / SNS
