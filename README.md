@@ -8,7 +8,7 @@
 
 🚀 Experienced in in-depth analysis and solution architecture design aligned with project requirements and best practices for security, reliability, performance, and cost efficiency. Specializing in backend development with PHP (Laravel) and Node.js (NestJS, Express). Skilled in deploying and maintaining services on both on-premises infrastructure and AWS cloud using IaC, with robust CI/CD workflows for production readiness.
 
-## 🎮 Core skills:
+#### 🎮 Core skills:
 ◈ **Architecture / System Design:** C4, Structurizr, PlantUML, UML, Lucidchart, Draw.io, OpenAPI (Swagger), AsyncAPI, CloudEvents   
 ◈ **Programming Languages:** PHP (Laravel), JavaScript / TypeScript / Node (Express, Nest)   
 ◈ **API:** RESTful API, GraphQL, gRPC, WebSockets (Socket.IO), SSE  
